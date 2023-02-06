@@ -1,4 +1,4 @@
-# Learning Java Session
+# Learning Java Spring Boot Session
 This was a practice project where I learned how to manipulate session in a Spring Boot app.
 
 ### Objectives:
